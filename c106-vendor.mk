@@ -25,6 +25,66 @@ PRODUCT_COPY_FILES += \
     vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
     vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_General_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/cmcc/MTP_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/cmcc/workspaceFile.qwsp:system/etc/acdbdata/MTP/cmcc/workspaceFile.qwsp \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_General_cal.acdb:system/etc/acdbdata/MTP/common/MTP_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/common/MTP_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/common/workspaceFile.qwsp:system/etc/acdbdata/MTP/common/workspaceFile.qwsp \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_General_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/factory/MTP_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/factory/workspaceFile.qwsp:system/etc/acdbdata/MTP/factory/workspaceFile.qwsp \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_General_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Global_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Handset_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Hdmi_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Headset_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Speaker_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_General_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Global_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb:system/etc/acdbdata/MTP/msm8976-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_General_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/oversea/MTP_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/MTP/oversea/workspaceFile.qwsp:system/etc/acdbdata/MTP/oversea/workspaceFile.qwsp \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_General_cal.acdb:system/etc/acdbdata/QRD/QRD_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/etc/acdbdata/QRD/QRD_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Handset_cal.acdb:system/etc/acdbdata/QRD/QRD_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb:system/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Headset_cal.acdb:system/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:system/etc/acdbdata/QRD/QRD_Speaker_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Bluetooth_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_General_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_General_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Global_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Global_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Handset_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Handset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Hdmi_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Hdmi_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Headset_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Headset_cal.acdb \
+    vendor/coolpad/c106/proprietary/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Speaker_cal.acdb:system/etc/acdbdata/QRD/msm8976-skun-snd-card/QRD_SKUN_Speaker_cal.acdb \
     vendor/coolpad/c106/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
     vendor/coolpad/c106/proprietary/etc/camera/imx214_chromatix.xml:system/etc/camera/imx214_chromatix.xml \
     vendor/coolpad/c106/proprietary/etc/camera/imx230_chromatix.xml:system/etc/camera/imx230_chromatix.xml \
@@ -1086,6 +1146,11 @@ PRODUCT_COPY_FILES += \
     vendor/coolpad/c106/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/coolpad/c106/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/coolpad/c106/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/coolpad/c106/proprietary/etc/sound_trigger_mixer_paths.xml:system/etc/sound_trigger_mixer_paths.xml \
+    vendor/coolpad/c106/proprietary/etc/sound_trigger_mixer_paths_wcd9306.xml:system/etc/sound_trigger_mixer_paths_wcd9306.xml \
+    vendor/coolpad/c106/proprietary/etc/sound_trigger_mixer_paths_wcd9330.xml:system/etc/sound_trigger_mixer_paths_wcd9330.xml \
+    vendor/coolpad/c106/proprietary/etc/sound_trigger_mixer_paths_wcd9335.xml:system/etc/sound_trigger_mixer_paths_wcd9335.xml \
+    vendor/coolpad/c106/proprietary/etc/sound_trigger_platform_info.xml:system/etc/sound_trigger_platform_info.xml \
     vendor/coolpad/c106/proprietary/framework/ConnectivityExt.jar:system/framework/ConnectivityExt.jar \
     vendor/coolpad/c106/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
     vendor/coolpad/c106/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
